@@ -1,0 +1,121 @@
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*header styles*/
+
+header {
+  background-color: #404041;
+  height: 100px;
+  margin: 0px 0px 30px 0px;
+}
+
+#number-title {
+  color: #ED458B;
+  font-weight: 800;
+}
+
+#guesser-title {
+  color: #E6E7E8;
+  font-weight: 100;
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  margin: 0px;
+  padding: 30px 0px;
+}
+
+body {
+  margin: 0px;
+}
+
+/*form styles*/
+
+input {
+  width: 50%;
+  font-size: 30px;
+}
+
+#user-guess {
+  margin: auto;
+  display: block;
+}
+
+#input-buttons {
+  text-align:  center;
+}
+
+button {
+  background-color: #929497;
+  border-radius: 15px;
+  border: none;
+  color: #FFFFFF;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: 200;
+  width: 22%;
+  margin: 50px 20px;
+}
+
+button:disabled {
+  background-color: #D0D2D3;
+}
+
+button:hover {
+  background-color: #EB008B;
+}
+
+#last-guess {
+  color: #404041;
+  text-align: center;
+  margin: 20px 0px 0px 0px;
+}
+
+#display-the-last-guess {
+  font-size: 11.5em;
+  color: #EB008B;
+  text-align: center;
+  margin: 20px 0px 0px 0px;
+}
+
+#clue {
+  color: #404041;
+  text-align: center;
+  font-size: 30px;
+  margin: 20px 0px 0px 0px;
+}
+
+#reset {
+  text-align: center;
+}
+
+#change-min {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+#change-max {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+#submit-button {
+  text-align: center;
+  margin: auto;
+  display: block;
+  margin-top: 25px;
+}
+
+
+
+
+
+
+
+
